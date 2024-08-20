@@ -15,7 +15,8 @@ And that's it!
 
 ## Deploy via One-Click
 
-[![Deploy to Scalingo](https://cdn.scalingo.com/deploy/button.svg)](https://my.scalingo.com/deploy)
+[![Deploy on Scalingo](https://cdn.scalingo.com/deploy/button.svg)](https://dashboard.scalingo.com/create/app?source=https://github.com/alphaxcv/sample-go-gin#main)
+
 
 ## Running Locally
 
