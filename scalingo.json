@@ -2,7 +2,7 @@
   "name": "Sample Go Gin",
   "description": "Sample web application using the Go framework Gin",
   "logo": "https://scalingo.com/logo.svg",
-  "repository": "https://github.com/Scalingo/sample-go-gin",
+  "repository": "https://github.com/alphaxcv/sample-go-gin",
   "website": "https://scalingo.com",
   "formation": {
     "web": {
